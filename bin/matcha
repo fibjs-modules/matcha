@@ -1,2 +1,2 @@
-#!/usr/bin/env node
+#!/usr/bin/env fibjs
 require('v8-argv')(__dirname, '_matcha');

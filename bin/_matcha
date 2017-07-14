@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/env fibjs
 // -*- mode: javascript -*-
 // vi: set ft=javascript :
 

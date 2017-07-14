@@ -1,8 +1,8 @@
 {
   "author": "Jake Luer <jake@alogicalparadox.com>",
-  "name": "matcha",
+  "name": "@fibjs/matcha",
   "description": "Benchmark your code.",
-  "keyword": [ "benchmark", "bench", "performance" ],
+  "keyword": [ "benchmark", "bench", "performance", "fibjs"],
   "version": "0.7.0",
   "repository": {
     "type": "git",
